@@ -22,6 +22,9 @@ Database: PostgreSQL
 Authentication: JWT + Cookies
 
 ![Home Page](public/home-images/home-page.png) 
+
+<img src="public/home-images/home-page.png" alt="Home Page" width="400">
+
 After Login , We will move to the dashboard.
 ![Home Page](public/home-images/screen1.png)
 We will Click on Start Vedio Chat button and it will ask for Microphone and Camera Access.
