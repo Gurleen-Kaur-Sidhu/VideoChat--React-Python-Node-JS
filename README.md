@@ -21,16 +21,17 @@ Backend API: Python
 Database: PostgreSQL
 Authentication: JWT + Cookies
 
-![Home Page](public/home-images/home-page.png) 
-
+Home Page Design
 <img src="public/home-images/home-page.png" alt="Home Page" width="400">
 
 After Login , We will move to the dashboard.
-![Home Page](public/home-images/screen1.png)
+<img src="public/home-images/screen1.png" alt="Home Page" width="400">
+
 We will Click on Start Vedio Chat button and it will ask for Microphone and Camera Access.
-![Home Page](public/home-images/screen2.png)
+<img src="public/home-images/screen2.png" alt="Home Page" width="400">
+
 It will find a best connection for us and we can talk.
-![Home Page](public/home-images/screen3.png)
+<img src="public/home-images/screen3.png" alt="Home Page" width="400">
 
 Premium Users have some Premium Features ( Choose the Another Person According to Gender , Badge After there Name )
 
