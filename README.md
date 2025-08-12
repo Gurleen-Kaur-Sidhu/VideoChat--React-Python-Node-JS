@@ -24,17 +24,11 @@ Authentication: JWT + Cookies
 # Home Page Design
 <img src="public/home-images/home-page.png" alt="Home Page" width="400">
 
----
-
 # After Login — Dashboard
 <img src="public/home-images/screen1.png" alt="Dashboard" width="400">
 
----
-
 # Start Video Chat — Camera & Microphone Access
 <img src="public/home-images/screen2.png" alt="Permissions" width="400">
-
----
 
 # Finding Best Connection & Talking
 <img src="public/home-images/screen3.png" alt="Video Chat" width="400">
