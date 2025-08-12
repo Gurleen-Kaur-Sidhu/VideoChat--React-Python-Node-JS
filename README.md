@@ -21,3 +21,5 @@ Backend API: Python
 Database: PostgreSQL
 Authentication: JWT + Cookies
 
+![Home Page Screenshot](assets/homepage.png)
+
