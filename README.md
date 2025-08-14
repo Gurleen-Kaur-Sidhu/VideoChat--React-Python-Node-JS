@@ -35,6 +35,9 @@ Authentication: JWT + Cookies
 # Finding Best Connection & Talking
 <img src="public/home-images/screen3.png" alt="Video Chat" width="400">
 
+# Admin Dashboard
+<img src="public/home-images/dash2.png" alt="Home Page" width="400">
+
 
 Premium Users have some Premium Features ( Choose the Another Person According to Gender , Badge After there Name )
 
