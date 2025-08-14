@@ -1,5 +1,7 @@
 # VideoChat--React-Python-Node-JS
 
+**Live Demo:** [Click Here](https://video-chat-react-python-node-js.vercel.app/)
+
 📖 Overview
 This is a real-time video calling application that allows users to connect instantly using peer-to-peer WebRTC technology. The frontend is built with React, the WebRTC signaling server is implemented in Node.js, and Python handles the backend APIs for authentication, user management, and other application logic.
 
@@ -21,13 +23,21 @@ Backend API: Python
 Database: PostgreSQL
 Authentication: JWT + Cookies
 
-![Home Page](public/home-images/home-page.png) 
-After Login , We will move to the dashboard.
-![Home Page](public/home-images/screen1.png)
-We will Click on Start Vedio Chat button and it will ask for Microphone and Camera Access.
-![Home Page](public/home-images/screen2.png)
-It will find a best connection for us and we can talk.
-![Home Page](public/home-images/screen3.png)
+# Home Page Design
+<img src="public/home-images/home-page.png" alt="Home Page" width="400">
+
+# After Login — Dashboard
+<img src="public/home-images/screen1.png" alt="Dashboard" width="400">
+
+# Start Video Chat — Camera & Microphone Access
+<img src="public/home-images/screen2.png" alt="Permissions" width="400">
+
+# Finding Best Connection & Talking
+<img src="public/home-images/screen3.png" alt="Video Chat" width="400">
+
+# Admin Dashboard
+<img src="public/home-images/dash2.png" alt="Home Page" width="400">
+
 
 Premium Users have some Premium Features ( Choose the Another Person According to Gender , Badge After there Name )
 
